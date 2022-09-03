@@ -1,0 +1,54 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include",
+                "C:/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "C:/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "C:/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "C:/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "C:/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "C:/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\LLVM\\bin\\clang.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-clang-x64"
+        }
+    ],
+    "version": 4
+}
+
+
+// {
+//     "configurations": [
+//       {
+//         "name": "MinGW",
+//         "intelliSenseMode": "clang-x64",
+//         "compilerPath": "C:/LLVM/bin/gcc.exe",
+//         "includePath": [
+//           "${workspaceFolder}"
+//         ],
+//         "defines": [],
+//         "browse": {
+//           "path": [
+//             "${workspaceFolder}"
+//           ],
+//           "limitSymbolsToIncludedHeaders": true,
+//           "databaseFilename": ""
+//         },
+//         "cStandard": "c11",
+//         "cppStandard": "c++17"
+//       }
+//     ],
+//     "version": 4
+// }

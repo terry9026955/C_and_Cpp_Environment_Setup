@@ -1,5 +1,8 @@
 # C_and_Cpp_Environment_Setup
 
+
+## 設定步驟實際順序是: 2 3 4 5 6 8 1 7 9
+
 <img src="Pictures/推廣文1.png" width="100%">
 <img src="Pictures/推廣文2.png" width="100%">
 <img src="Pictures/推廣文3.png" width="100%">
